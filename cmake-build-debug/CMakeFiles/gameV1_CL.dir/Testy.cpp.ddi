@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/gameV1_CL.dir/Testy.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

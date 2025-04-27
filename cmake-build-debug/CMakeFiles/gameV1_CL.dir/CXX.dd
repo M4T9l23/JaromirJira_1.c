@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/gameV1_CL.dir/main.cpp.o: dyndep
+
+build CMakeFiles/gameV1_CL.dir/Testy.cpp.o: dyndep
+
+build CMakeFiles/gameV1_CL.dir/monsterA.cpp.o: dyndep
+

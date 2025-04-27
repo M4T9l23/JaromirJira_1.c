@@ -1,0 +1,12 @@
+# ninja log v6
+109	112	1743603731197746926	CMakeFiles/gameV1_CL.dir/CXX.dd	a30058ba7c2464b8
+2391	2629	7651466069799573	gameV1_CL.exe	728b7e0b5592e890
+4	193	1743602686360763376	CMakeFiles/gameV1_CL.dir/main.cpp.o.ddi	73485050af3bd2b2
+109	112	1743603731197746926	CMakeFiles/gameV1_CL.dir/Testy.cpp.o.modmap	a30058ba7c2464b8
+209	1152	1743602686565765186	CMakeFiles/gameV1_CL.dir/main.cpp.o	bab39bf16dc0ebec
+6	193	1743602686362763393	CMakeFiles/gameV1_CL.dir/Testy.cpp.o.ddi	d4e4b5743ef3b14f
+109	112	1743603731197746926	CMakeFiles/gameV1_CL.dir/main.cpp.o.modmap	a30058ba7c2464b8
+2	109	1743603731090746019	CMakeFiles/gameV1_CL.dir/monsterA.cpp.o.ddi	22d2f666dbcae6c8
+109	112	1743603731197746926	/home/m4t9/Desktop/School/Programing/projekty/gameV1-CL/cmake-build-debug/CMakeFiles/gameV1_CL.dir/CXXModules.json	a30058ba7c2464b8
+109	112	1743603731197746926	CMakeFiles/gameV1_CL.dir/monsterA.cpp.o.modmap	a30058ba7c2464b8
+209	1092	1743602686566954727	CMakeFiles/gameV1_CL.dir/Testy.cpp.o	e654bbea2d25058b

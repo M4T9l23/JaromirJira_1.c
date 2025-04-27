@@ -1,0 +1,3 @@
+/home/m4t9/Desktop/School/Programing/projekty/gameV1-CL/cmake-build-debug/CMakeFiles/gameV1_CL.dir
+/home/m4t9/Desktop/School/Programing/projekty/gameV1-CL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/m4t9/Desktop/School/Programing/projekty/gameV1-CL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
