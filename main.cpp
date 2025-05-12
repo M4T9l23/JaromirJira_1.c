@@ -16,7 +16,7 @@ void EnemyAttack(float &playerHP, vector<float> &enemieHP, float enemyMul) {
     }
 
     for (int i = 0; i < enemieHP.size(); i++) {
-        if (enemieHP[i] > 0) { // Only alive enemies attack
+        if (enemieHP[i] > 0) {
             srand(time(0) + i);
             int attackType = rand() % 2;
 
