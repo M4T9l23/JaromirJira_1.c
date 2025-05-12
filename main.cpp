@@ -164,7 +164,7 @@ int main() {
     enemyName = "Gob";
     enemyHP.push_back(20);
     enemyMul = 1;
-   // playerAttackEnemy(playerHP, playerMP, enemyHP, enemyName, attackHP1, attackMP1, attackHP2, attackMP2, attackHP3, attackPHP3, enemyNUM, enemyMul);
+    playerAttackEnemy(playerHP, playerMP, enemyHP, enemyName, attackHP1, attackMP1, attackHP2, attackMP2, attackHP3, attackPHP3, enemyNUM, enemyMul);
 
     enemyHP.clear();
     cout << "\nPlayer HP after battle: " << playerHP << " / Player MP after battle: " << playerMP << endl;
