@@ -18,6 +18,11 @@
 	"module-dir" : "/home/m4t9/Desktop/School/Programing/projekty/gameV1-CL/cmake-build-debug/CMakeFiles/gameV1_CL.dir",
 	"sources" : 
 	{
+		"CMakeFiles/gameV1_CL.dir/T2.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/m4t9/Desktop/School/Programing/projekty/gameV1-CL/T2.cpp"
+		},
 		"CMakeFiles/gameV1_CL.dir/Testy.cpp.o" : 
 		{
 			"language" : "CXX",
@@ -27,11 +32,6 @@
 		{
 			"language" : "CXX",
 			"source" : "/home/m4t9/Desktop/School/Programing/projekty/gameV1-CL/main.cpp"
-		},
-		"CMakeFiles/gameV1_CL.dir/monsterA.cpp.o" : 
-		{
-			"language" : "CXX",
-			"source" : "/home/m4t9/Desktop/School/Programing/projekty/gameV1-CL/monsterA.cpp"
 		}
 	}
 }
